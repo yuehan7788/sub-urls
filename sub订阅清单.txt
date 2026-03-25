@@ -8,5 +8,6 @@ https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
 https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/all.yaml
 
 # myslf_2
-https://raw.githubusercontent.com/yuehan7788/sub-urls/refs/heads/main/v2ray.txt
-https://raw.githubusercontent.com/yuehan7788/sub-urls/refs/heads/main/all.yaml
+https://raw.githubusercontent.com/yuehan7788/sub-urls/refs/heads/main/v2ray.txt# myslf_2_v2ray.txt
+https://raw.githubusercontent.com/yuehan7788/sub-urls/refs/heads/main/all.yaml# myslf_2_all.yaml
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/quick/1/config.yaml#quick-1
