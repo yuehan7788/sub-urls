@@ -13,4 +13,5 @@ https://raw.githubusercontent.com/yuehan7788/sub-urls/refs/heads/main/all.yaml# 
 https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/quick/1/config.yaml# quick-1
 https://peige.dpkj.qzz.io/dapei # dapei
 https://xbs1d.no-mad-world.club/link/xBpQyM9m3VZ9ouyb?clash=3&extend=1# ikuuuVPS
-https://cf-ech.pages.dev/eeb33c84-db26-4e53-87f5-ebda023b2989/sub# cloud flare
+https://cf-ech.pages.dev/eeb33c84-db26-4e53-87f5-ebda023b2989/sub# CloudFlare
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt# Hiddify
